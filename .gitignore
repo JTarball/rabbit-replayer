@@ -1,0 +1,4 @@
+vendor/
+ping
+Gopkg.toml
+Gopkg.lock
